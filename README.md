@@ -9,13 +9,11 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Components](#components)
+- [Design Approach](#design-approach)
 - [How It Works](#how-it-works)
 - [Assets](#assets)
-  - [Breadboard Diagram](#breadboard-diagram)
-  - [Circuit Diagram](#circuit-diagram)
+  - [Images](#images)
   - [Demonstration](#demonstration)
-  - [Source Code](#source-code)
 - [Key Takeaways](#key-takeaways)
 
 
@@ -23,29 +21,23 @@
 ## Overview
 
 
-## Components
+## Design Approach
 
   
 ## How It Works
 
 
-## Assets
-### Breadboard Diagram
-![Breadboard Diagram]()
+## Key Takeaways
 
-### Circuit Diagram
-![Circuit Diagram]()
+
+## Assets
+### Images
+![Images]()
 
 ### Demonstration
 ![Image]()
 
 [Video]()
 
-### Source Code
-[Arduino Sketch]()
-```cpp
-code
-```
 
-## Key Takeaways
 
