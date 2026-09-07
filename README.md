@@ -36,7 +36,7 @@ The planetary gear system was designed in Fusion 360 using a module of 2 mm and 
 
 
 
-The ring gear was set to 80 teeth. The required sun gear teeth number was then calculated from the desired gear ratio:
+The ring gear was set to 80 teeth. The required sun gear teeth number was calculated from the gear ratio:
 
 `S = R / (1/Gr) - 1`
 
