@@ -78,6 +78,7 @@ The gears and planet carrier were modelled as separate components and assembled 
 | Planet pitch diameter            |                             64 mm |
 | Ring pitch diameter              |                            160 mm |
 | Number of planet gears           |                                 3 |
+| Planet gear spacing              |                              120° |
 | Gear reduction                   |                               6:1 |
  
 
